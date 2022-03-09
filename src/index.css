@@ -1,13 +1,21 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+  .hero {
+    background-image: url("./media/ToriHero.gif");
+    background-position: center;
+    animation: 1s blurIn ease-in forwards;
+  }
+
+  @keyframes blurIn {
+    0% {filter: blur(1px); }
+    33% {filter: blur(2px); }
+    66% {filter: blur(3px); }
+    100% {filter: blur(4px); }
+  }
 }
