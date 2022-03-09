@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/ToriProds/static/css/main.073c9b0a.css",
-    "main.js": "/ToriProds/static/js/main.a4421a22.js",
+    "main.css": "/ToriProds/static/css/main.cb5a5a02.css",
+    "main.js": "/ToriProds/static/js/main.ac5ed053.js",
     "static/js/787.cda612ba.chunk.js": "/ToriProds/static/js/787.cda612ba.chunk.js",
-    "static/media/logo.svg": "/ToriProds/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ToriHero.gif": "/ToriProds/static/media/ToriHero.0ed7c201928302cf6d2e.gif",
+    "static/media/video1Screen.png": "/ToriProds/static/media/video1Screen.1f1ee360d98306dea094.png",
+    "static/media/video2Screen.png": "/ToriProds/static/media/video2Screen.47ff1b2b22418bbd3faa.png",
+    "static/media/video4Screen.png": "/ToriProds/static/media/video4Screen.0fef0c4f13666568dbb2.png",
+    "static/media/video9Screen.png": "/ToriProds/static/media/video9Screen.02945598f5842ca690de.png",
+    "static/media/video6Screen.png": "/ToriProds/static/media/video6Screen.1822c894fea4447a84b7.png",
+    "static/media/video8Screen.png": "/ToriProds/static/media/video8Screen.68f371252f860e824f95.png",
+    "static/media/video7Screen.png": "/ToriProds/static/media/video7Screen.521146fd07e54aa15487.png",
+    "static/media/video12Screen.png": "/ToriProds/static/media/video12Screen.543bf977d1659ac87411.png",
+    "static/media/video5Screen.png": "/ToriProds/static/media/video5Screen.e82f3e04d575cf849add.png",
+    "static/media/video3Screen.png": "/ToriProds/static/media/video3Screen.afc844802561400d050f.png",
+    "static/media/video11Screen.png": "/ToriProds/static/media/video11Screen.f4a4dbd44717d9af7d92.png",
+    "static/media/video10Screen.png": "/ToriProds/static/media/video10Screen.efb93541038fa897dd76.png",
+    "static/media/pngkey.com-simple-swirls-png-1894818.png": "/ToriProds/static/media/pngkey.com-simple-swirls-png-1894818.d9a8e7a0abc67194e018.png",
     "index.html": "/ToriProds/index.html",
-    "main.073c9b0a.css.map": "/ToriProds/static/css/main.073c9b0a.css.map",
-    "main.a4421a22.js.map": "/ToriProds/static/js/main.a4421a22.js.map",
+    "main.cb5a5a02.css.map": "/ToriProds/static/css/main.cb5a5a02.css.map",
+    "main.ac5ed053.js.map": "/ToriProds/static/js/main.ac5ed053.js.map",
     "787.cda612ba.chunk.js.map": "/ToriProds/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a4421a22.js"
+    "static/css/main.cb5a5a02.css",
+    "static/js/main.ac5ed053.js"
   ]
 }
