@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="min-h-screen w-screen flex flex-col text-sans">
+      <Navbar/>
       <Home/>
     </div>
   );

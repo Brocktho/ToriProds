@@ -1,7 +1,6 @@
 import React from 'react';
 import {useState} from 'react';
 import {useSpring, animated} from "react-spring";
-import {Link} from "react-router-dom";
 
 function Logo() {
 
@@ -77,7 +76,7 @@ function Logo() {
     };
 
     return(
-        <Link className="group flex flex-row items-center h-full justify-center text-6xl sm:text-4xl md:text-3xl w-full" onMouseEnter={() => updateTrue()} onMouseLeave ={() => updateFalse()} to="/">
+        <div className="group flex flex-row items-center h-full justify-center text-6xl sm:text-4xl md:text-3xl w-full" onMouseEnter={() => updateTrue()} onMouseLeave ={() => updateFalse()} to="/">
             <svg className='w-full h-full text-8xl' viewBox="0 0 700 110" xmlns="http://www.w3.org/2000/svg" >
                 <animated.svg fillOpacity={fillMe} strokeDasharray={400} strokeDashoffset={x1.to(x1 => (1-x1) * 400)}> {/* B */}
                         <text x="0" y="80" stroke="black" fill="silver">
@@ -85,7 +84,7 @@ function Logo() {
                         </text>
                 </animated.svg>
             </svg>
-        </Link>
+        </div>
     )
 }
 
