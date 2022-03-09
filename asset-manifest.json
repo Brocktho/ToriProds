@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/ToriProds/static/css/main.cb5a5a02.css",
-    "main.js": "/ToriProds/static/js/main.ac5ed053.js",
+    "main.js": "/ToriProds/static/js/main.9302ab8b.js",
     "static/js/787.cda612ba.chunk.js": "/ToriProds/static/js/787.cda612ba.chunk.js",
     "static/media/ToriHero.gif": "/ToriProds/static/media/ToriHero.0ed7c201928302cf6d2e.gif",
+    "static/media/video3.mp4": "/ToriProds/static/media/video3.ffb3523e96deee3431df.mp4",
     "static/media/video1Screen.png": "/ToriProds/static/media/video1Screen.1f1ee360d98306dea094.png",
     "static/media/video2Screen.png": "/ToriProds/static/media/video2Screen.47ff1b2b22418bbd3faa.png",
     "static/media/video4Screen.png": "/ToriProds/static/media/video4Screen.0fef0c4f13666568dbb2.png",
@@ -19,11 +20,11 @@
     "static/media/pngkey.com-simple-swirls-png-1894818.png": "/ToriProds/static/media/pngkey.com-simple-swirls-png-1894818.d9a8e7a0abc67194e018.png",
     "index.html": "/ToriProds/index.html",
     "main.cb5a5a02.css.map": "/ToriProds/static/css/main.cb5a5a02.css.map",
-    "main.ac5ed053.js.map": "/ToriProds/static/js/main.ac5ed053.js.map",
+    "main.9302ab8b.js.map": "/ToriProds/static/js/main.9302ab8b.js.map",
     "787.cda612ba.chunk.js.map": "/ToriProds/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5a5a02.css",
-    "static/js/main.ac5ed053.js"
+    "static/js/main.9302ab8b.js"
   ]
 }
